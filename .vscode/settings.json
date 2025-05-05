@@ -1,0 +1,11 @@
+{
+    "markdown.preview.scrollEditorWithPreview": true,
+    "markdown.preview.scrollPreviewWithEditor": true,
+    "markdown.preview.markEditorSelection": true,
+    "markdown.extension.toc.updateOnSave": true,
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "markdownlint.config": {
+      "MD013": false  // disables line-length warnings
+    }
+  }
+  

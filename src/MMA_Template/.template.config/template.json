@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "MMA Team",
+  "classifications": ["MMA", "Architecture", "Modular"],
+  "identity": "MMA.Template.CSharp",
+  "name": "Mosaic Modular Architecture",
+  "shortName": "mma",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "QuickCart"
+}
